@@ -5,7 +5,7 @@ A modern React Native application for discovering and managing favorite restaura
 ## 🎯 Project Goals
 
 - Create a user-friendly interface for browsing restaurants
-- Implement country-based filtering
+- Implement cuisine-based filtering
 - Allow users to manage their favorite restaurants
 - Demonstrate best practices in React Native development
 - Showcase clean architecture and code organization
@@ -13,7 +13,7 @@ A modern React Native application for discovering and managing favorite restaura
 ## 🚀 Features
 
 - **Restaurant Discovery**: Browse through a curated list of restaurants
-- **Country Filtering**: Filter restaurants by country with an intuitive category selector
+- **Cuisine Filtering**: Filter restaurants by cuisine with an intuitive category selector
 - **Favorites Management**: Add/remove restaurants to/from favorites
 - **Detailed Information**: View comprehensive restaurant details including:
   - Location
@@ -63,23 +63,23 @@ mobile-challenge/
 ## 📱 Screenshots
 
 ### Restaurant List
-![Restaurant List Screen](./screenshots/home.png){width=300}
-*Main screen showing the list of restaurants with country filtering*
+<img src="./screenshots/home.png" alt="Restaurant List Screen" width="300" height="200">
+*Main screen showing the list of restaurants with cuisine filtering*
 
 ### Restaurant Details
-![Restaurant Details Screen](./screenshots/details.png){width=300}
+<img src="./screenshots/details.png" alt="Restaurant Details Screen" width="300" height="200">
 *Detailed view of a restaurant with all information*
 
 ### Favorites
-![Favorites Screen](./screenshots/favorite.png){width=300}
+<img src="./screenshots/favorite.png" alt="Favorite Screen" width="300" height="200">
 *User's favorite restaurants with quick actions*
 
-### Country Filtering
-![Country Filtering](./screenshots/filter.png){width=300}
-*Country-based filtering in action*
+### Cuisine Filtering
+<img src="./screenshots/filter.png" alt="Cuisine Filtering" width="300" height="200">
+*Suisine-based filtering in action*
 
 ### Map
-![Restaurant Map Location](./screenshots/map.png){width=300}
+<img src="./screenshots/map.png" alt="Map Screen" width="300" height="200">
 *Map with the restaurants locations*
 
 ## 🛠 Getting Started
