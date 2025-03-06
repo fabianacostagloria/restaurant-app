@@ -63,23 +63,23 @@ mobile-challenge/
 ## 📱 Screenshots
 
 ### Restaurant List
-![Restaurant List Screen](./screenshots/home.png)
+![Restaurant List Screen](./screenshots/home.png){width=300}
 *Main screen showing the list of restaurants with country filtering*
 
 ### Restaurant Details
-![Restaurant Details Screen](./screenshots/details.png)
+![Restaurant Details Screen](./screenshots/details.png){width=300}
 *Detailed view of a restaurant with all information*
 
 ### Favorites
-![Favorites Screen](./screenshots/favorite.png)
+![Favorites Screen](./screenshots/favorite.png){width=300}
 *User's favorite restaurants with quick actions*
 
 ### Country Filtering
-![Country Filtering](./screenshots/filter.png)
+![Country Filtering](./screenshots/filter.png){width=300}
 *Country-based filtering in action*
 
 ### Map
-![Restaurant Map Location](./screenshots/map.png)
+![Restaurant Map Location](./screenshots/map.png){width=300}
 *Map with the restaurants locations*
 
 ## 🛠 Getting Started
