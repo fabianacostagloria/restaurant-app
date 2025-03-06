@@ -63,23 +63,23 @@ mobile-challenge/
 ## 📱 Screenshots
 
 ### Restaurant List
-<img src="./screenshots/home.png" alt="Restaurant List Screen" width="300" height="200">
+<img src="./screenshots/home.png" alt="Restaurant List Screen" width="300" height="auto">
 *Main screen showing the list of restaurants with cuisine filtering*
 
 ### Restaurant Details
-<img src="./screenshots/details.png" alt="Restaurant Details Screen" width="300" height="200">
+<img src="./screenshots/details.png" alt="Restaurant Details Screen" width="300" height="auto">
 *Detailed view of a restaurant with all information*
 
 ### Favorites
-<img src="./screenshots/favorite.png" alt="Favorite Screen" width="300" height="200">
+<img src="./screenshots/favorite.png" alt="Favorite Screen" width="300" height="auto">
 *User's favorite restaurants with quick actions*
 
 ### Cuisine Filtering
-<img src="./screenshots/filter.png" alt="Cuisine Filtering" width="300" height="200">
+<img src="./screenshots/filter.png" alt="Cuisine Filtering" width="300" height="auto">
 *Suisine-based filtering in action*
 
 ### Map
-<img src="./screenshots/map.png" alt="Map Screen" width="300" height="200">
+<img src="./screenshots/map.png" alt="Map Screen" width="300" height="auto">
 *Map with the restaurants locations*
 
 ## 🛠 Getting Started
