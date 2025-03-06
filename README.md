@@ -80,7 +80,7 @@ mobile-challenge/
 
 ### Map
 *Map with the restaurants locations*
-<img src="./screenshots/map.png" alt="Map Screen" width="300" height="auto" />
+<img src="./screenshots/map.png" alt="Map Screen" width="300" height="auto">
 
 ## 🛠 Getting Started
 
