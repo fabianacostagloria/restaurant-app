@@ -64,22 +64,27 @@ mobile-challenge/
 
 ### Restaurant List
 *Main screen showing the list of restaurants with cuisine filtering*
+
 <img src="./screenshots/home.png" alt="Restaurant List Screen" width="300" height="auto" >
 
 ### Restaurant Details
-*Detailed view of a restaurant with all information*
+*Detailed view of a restaurant with all information* 
+
 <img src="./screenshots/details.png" alt="Restaurant Details Screen" width="300" height="auto" >
 
 ### Favorites
-*User's favorite restaurants with quick actions*
+*User's favorite restaurants with quick actions* 
+
 <img src="./screenshots/favorite.png" alt="Favorite Screen" width="300" height="auto" >
 
 ### Cuisine Filtering
 *Cuisine-based filtering in action*
+
 <img src="./screenshots/filter.png" alt="Cuisine Filtering" width="300" height="auto">
 
 ### Map
 *Map with the restaurants locations*
+
 <img src="./screenshots/map.png" alt="Map Screen" width="300" height="auto">
 
 ## 🛠 Getting Started
@@ -103,19 +108,9 @@ cd restaurant-app
 yarn install
 ```
 
-3. Start the development server:
+3. Run the project:
 ```bash
-yarn start
-```
-
-4. Run on iOS:
-```bash
-yarn ios
-```
-
-5. Run on Android:
-```bash
-yarn android
+npx expo start
 ```
 
 ## 📦 Dependencies
@@ -123,6 +118,7 @@ yarn android
 - React Native
 - TypeScript
 - React Navigation
+- Expo
 
 
 ## ⚡ Performance Optimizations
